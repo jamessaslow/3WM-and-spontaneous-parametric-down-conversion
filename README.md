@@ -1,7 +1,5 @@
 # Three Wave Mixing and Spontaneous Parametric Down Conversion
 
-# Superconducting Quantum Chip Design and Optimization
-
 ### Contributors: James Saslow, Brendan Stork
 
 <b> Return to [Full Project Portfolio](https://github.com/jamessaslow/portfolio) </b>
