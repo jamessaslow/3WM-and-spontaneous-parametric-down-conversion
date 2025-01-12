@@ -10,4 +10,4 @@ A showcase of my undergraduate research at San Jose State University investigati
 
 ![image](https://github.com/user-attachments/assets/0840451a-aace-4da3-af3f-abf686170e87)
 
-We presented the poster above at the 17th Annual College of Science Research Day 2022
+We presented the poster above at the SJSU 17th Annual College of Science Research Day 2022
